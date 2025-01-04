@@ -37,7 +37,7 @@ Before submitting these codes to Github, all of them have been tested to be well
 ### 2.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
 ↓↓↓ A video to showcase the sentiment labeling process based on Llama 3.2.
  
-https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
+![video](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/2637deb2460a9ca45a7f28ab0ff829ef13641563/Videos%20%26%20Figures/11%E6%9C%889%E6%97%A5(1).mp4)
 
 ↓↓↓ All codes could be found below.
 

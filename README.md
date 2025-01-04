@@ -54,9 +54,10 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ↑↑↑ Codes for calculating the Precision, Recall and F1-score could be found above
 
-Videos & Figures/Screenshot of F1-score of gemma 2.png
-![Screenshot of F1-score of llama 3 2](https://github.com/user-attachments/assets/1d21091e-96da-44a0-89e8-2333e0c277be)
-![Screenshot of F1-score of phi 3](https://github.com/user-attachments/assets/93a03eb5-349e-425d-9a97-86a33d813c2f)
+https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/b69a8c56a7c09a34a5c449d82c06855595c00aa0/Videos%20%26%20Figures/Screenshot%20of%20F1-score%20of%20gemma%202.png
+https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/b69a8c56a7c09a34a5c449d82c06855595c00aa0/Videos%20%26%20Figures/Screenshot%20of%20F1-score%20of%20llama%203.2.png
+https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/b69a8c56a7c09a34a5c449d82c06855595c00aa0/Videos%20%26%20Figures/Screenshot%20of%20F1-score%20of%20phi%203.png
+
 
 ↑↑↑ Screenshots of the Precision, Recall, and F1-score of Gemma 2, Llama 3.2, and Phi 3.
 

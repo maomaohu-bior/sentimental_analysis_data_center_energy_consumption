@@ -5,7 +5,7 @@ __As the paper is under review, all contents in this repository are currently no
 ## 0. Summary of supplemental materials
 This table below shows all supplemental materials. All sheets in Tables S1 and S2 are arranged in the order shown in this table.
 
-![image](https://github.com/user-attachments/assets/49c0e409-f288-46fc-b084-f77f6ebffc39)
+![image](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/supplemental%20materials.png)
 
 ## 1. Introduction
 ### 1.1 Objective 
@@ -20,7 +20,7 @@ As for anything regarding the copyright, please refer to the MIT License or cont
 ### 2.1 Set environment
 All code is developed in **Python 3.9** using **PyCharm IDE**. Below are the hardware specifications of the workstation used to run this code. These specifications are listed for reference only and do not represent the minimum requirements to run the project. Feel free to experiment with different setups! 🚀
 
-![image](https://github.com/user-attachments/assets/8df90782-f33a-4bc9-abda-2b144687c5ad)
+![image](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/work%20station.png)
 
 ↑↑↑ Set configuration of our workstation running this repository.
 
@@ -29,12 +29,9 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ### 2.2 Mine posts and comments from Twitter
 
-https://github.com/user-attachments/assets/b0bdbe0e-6b89-4528-925c-2dd4259719c3
+![video](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/data%20mining%20from%20Twitter%2C.mp4)
 
 ↑↑↑ A video to showcase the data mining from Twitter, all collected social media data could be found in Table S1.
-
-
-↓↓↓ All codes could be found below
 
 
 ### 2.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
@@ -44,9 +41,7 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ↓↓↓ All codes could be found below.
 
-![image](https://github.com/user-attachments/assets/33d14148-2bc8-4650-8364-210fd6dff7ff)
-
-
+![image](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/all%20codes%20could%20be%20found%20here.png)
 
 ### 2.4 Compare the performance of Gemma 2, Llama 3.2 & Phi 3 in sentiment labeling
 
@@ -65,11 +60,12 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 #### 2.5.1 Topic prompts
 
-![image](https://github.com/user-attachments/assets/a06d2ce2-f0ac-4e5e-9049-3e7c4eaa99ce)
+![image](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/positive%20topic%20prompts.png)
 
 ↑↑↑ Positive topic prompt for LLMs in topic classification.
 
-![image](https://github.com/user-attachments/assets/3cd49eb7-4ff3-4a92-ad5c-61d4e3355d33)
+![image](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/negative%20topic%20prompts.png)
+
 
 ↑↑↑ Negative topic prompt for LLMs in topic classification.
 
@@ -79,11 +75,11 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ![image](https://github.com/user-attachments/assets/9c8139dc-07ca-49b9-974c-7b171c0f5c19)
 
-![positive topic](https://github.com/user-attachments/assets/1f4cb64c-93f1-4295-b3bc-ea47f5db8876)
+![](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/positive%20topic.gif)
 
 ↑↑↑ A GIF to show positive topic classification based on Gemma2.
 
-![11月9日 (1)](https://github.com/user-attachments/assets/1d0142a9-de5c-4891-8266-a053700bd105)
+![](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/negative%20topic.gif)
 
 ↑↑↑ A GIF to show negative topic classification based on Gemma2.
 

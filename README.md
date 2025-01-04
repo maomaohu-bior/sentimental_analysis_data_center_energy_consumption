@@ -45,7 +45,7 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ### 2.4 Compare the performance of Gemma 2, Llama 3.2 & Phi 3 in sentiment labeling
 
-![image](https://github.com/user-attachments/assets/acaaf867-c41f-4942-a1af-e37ee753e844)
+![image](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/8c38d7dfe22e8f97e372555947b5c115f97c2485/Videos%20%26%20Figures/all%20codes%20could%20be%20found%20here%20comparison.png)
 
 ↑↑↑ Codes for calculating the Precision, Recall and F1-score could be found above
 
@@ -73,7 +73,7 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ↓↓↓ Codes for positive and negative topic labeling could be found below
 
-![image](https://github.com/user-attachments/assets/9c8139dc-07ca-49b9-974c-7b171c0f5c19)
+![image](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/8c38d7dfe22e8f97e372555947b5c115f97c2485/Videos%20%26%20Figures/all%20codes%20could%20be%20found%20here%20topic.png)
 
 ![](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/positive%20topic.gif)
 

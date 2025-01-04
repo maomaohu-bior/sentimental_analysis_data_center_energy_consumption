@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/c1b962a8-b48f-4cad-81e0-ee718074758b
 
 ↑↑↑ Codes for calculating the Precision, Recall and F1-score could be found above
 
-![Screenshot of F1-score of gemma 2](https://github.com/user-attachments/assets/ac192995-18c5-40fa-b3c4-c11d09b5202e)
+Videos & Figures/Screenshot of F1-score of gemma 2.png
 ![Screenshot of F1-score of llama 3 2](https://github.com/user-attachments/assets/1d21091e-96da-44a0-89e8-2333e0c277be)
 ![Screenshot of F1-score of phi 3](https://github.com/user-attachments/assets/93a03eb5-349e-425d-9a97-86a33d813c2f)
 

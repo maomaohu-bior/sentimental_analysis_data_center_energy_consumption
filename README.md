@@ -29,15 +29,14 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ### 2.2 Mine posts and comments from Twitter
 
-![video](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/data%20mining%20from%20Twitter%2C.mp4)
+![](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/d270ad282da2e573a99f8a4eb2556132a986f75c/Videos%20%26%20Figures/data%20mining%20from%20Twitter.gif)
 
-↑↑↑ A video to showcase the data mining from Twitter, all collected social media data could be found in Table S1.
-
+↑↑↑ A .gif to showcase the data mining from Twitter, the whole HD video could be downloaded here ![video](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/4a4b077949b19277ee992abc0f1dc36022c5a981/Videos%20%26%20Figures/data%20mining%20from%20Twitter%2C.mp4) all collected social media data could be found in Table S1.
 
 ### 2.3 Sentiment labeling by Gemma 2, Llama 3.2 & Phi 3
-↓↓↓ A video to showcase the sentiment labeling process based on Llama 3.2.
- 
-![video](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/2637deb2460a9ca45a7f28ab0ff829ef13641563/Videos%20%26%20Figures/11%E6%9C%889%E6%97%A5(1).mp4)
+↓↓↓ A .gif to showcase the sentiment labeling process based on Llama 3.2. The whole HD wideo could be found here ![video](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/2637deb2460a9ca45a7f28ab0ff829ef13641563/Videos%20%26%20Figures/11%E6%9C%889%E6%97%A5(1).mp4)
+
+![](https://github.com/maomaohu-bior/sentimental_analysis_data_center_energy_consumption/blob/d270ad282da2e573a99f8a4eb2556132a986f75c/Videos%20%26%20Figures/sentiment%20labeling.gif)
 
 ↓↓↓ All codes could be found below.
 
